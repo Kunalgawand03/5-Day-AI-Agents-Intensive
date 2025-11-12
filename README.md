@@ -72,3 +72,76 @@ Next stop — **Day 2: Building Rule-Based and Goal-Oriented Agents!** 🚀
 - Codelabs (Gemini + ADK)  
 - Troubleshooting Guide  
 
+
+
+
+# ⚙️ Day 2 – Agent Tools & Interoperability with Model Context Protocol (MCP)  
+*Part of the **5-Day AI Agents Intensive** Program*
+
+---
+
+## 🧠 Overview  
+Today you’ll move beyond building standalone agents and learn how to **extend their abilities** through **external tools** and **MCP interoperability**.  
+Agents don’t just think — they act. By connecting them to APIs, databases, and custom functions, you’ll unlock true real-world capability.
+
+The **“Agent Tools & Interoperability with MCP” whitepaper** explains how agents can securely use external tools, introduces **Model Context Protocol (MCP)** for communication between models and tools, and highlights best practices for reliability, governance, and enterprise readiness.
+
+---
+
+## 🎧 Learning Materials  
+
+### 1. 📄 **Whitepaper – “Agent Tools & Interoperability with MCP”**  
+Covers:
+- Tool functions for real-time actions & data retrieval  
+- MCP architecture and communication layers  
+- Security, risk, and policy management for enterprise environments  
+
+### 2. 🎙️ **NotebookLM Podcast Summary**  
+A quick, focused audio recap created by **NotebookLM** — ideal for understanding key MCP concepts on the go.  
+
+### 3. 💬 **NotebookLM Interactive Exploration**  
+Add the whitepaper to **NotebookLM** to chat with it, generate insights, and clarify complex MCP topics.
+
+---
+
+## 💻 Hands-On Codelabs  
+
+### 🧩 **Codelab 1: Extend Your Agent with Tools**  
+- Build custom tools to expand agent functionality  
+- Turn your own **Python functions** into callable agent actions  
+- Learn how agents trigger tools for real-time reasoning and retrieval  
+
+### 🔗 **Codelab 2: Using MCP & Long-Running Operations**  
+- Implement **Model Context Protocol** for interoperability  
+- Design **long-running operations** that pause for human approval  
+- Resume execution seamlessly once confirmation is received  
+
+> ⚠️ **Before You Start:**  
+> - Ensure your **Kaggle account is phone-verified** (required for these codelabs).  
+> - Refer to the **Troubleshooting Guide** for common issues.
+
+---
+
+## 💡 What You’ll Learn  
+By completing Day 2, you’ll:  
+✅ Understand how tools extend agent capabilities beyond their LLM context  
+✅ Learn the **MCP architecture** and communication model  
+✅ Build and register custom agent tools in Python  
+✅ Handle **human-in-the-loop** operations safely and efficiently  
+
+---
+
+## 🏁 End of Day 2  
+You now know how to make agents **smarter, safer, and more powerful** by letting them interact with the outside world.  
+Next up — **Day 3: Integrating LLMs for Adaptive Reasoning and Contextual Memory!** 🚀  
+
+---
+
+**📂 Repository Path:**  
+`/Day2_AgentTools_MCP`
+
+**Includes:**  
+- Whitepaper Notes  
+- Podcast Summary  
+- Codelabs (Tool Integration + MCP)  
+- Troubleshooting Guide  
