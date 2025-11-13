@@ -143,5 +143,76 @@ Next up — **Day 3: Integrating LLMs for Adaptive Reasoning and Contextual Memo
 **Includes:**  
 - Whitepaper Notes  
 - Podcast Summary  
-- Codelabs (Tool Integration + MCP)  
+- Codelabs (Tool Integration + MCP)
 - Troubleshooting Guide  
+
+
+# 🧩 Day 3 – Context Engineering: Sessions & Memory  
+*Part of the **5-Day AI Agents Intensive** Program*
+
+---
+
+## 🧠 Overview  
+Welcome to **Day 3**, where we dive into the heart of **Context Engineering** — the secret behind stateful, personalized AI Agents.  
+Learn how agents manage **short-term sessions** and **long-term memory** to maintain continuity, recall information, and deliver human-like interactions over time.
+
+The **“Context Engineering: Sessions & Memory” whitepaper** explains how to dynamically assemble, store, and retrieve contextual data to make agents smarter and more adaptive in real-world use cases.
+
+---
+
+## 🎧 Learning Materials  
+
+### 1. 📄 **Whitepaper – “Context Engineering: Sessions & Memory”**  
+Discover:  
+- The role of **sessions** in managing conversation context  
+- How **memory** enables personalization and persistent understanding  
+- Techniques for **context window optimization** and dynamic updates  
+
+### 2. 🎙️ **NotebookLM Podcast Summary**  
+A concise audio walkthrough highlighting how context engineering transforms basic agents into continuously learning companions.
+
+### 3. 💬 **NotebookLM Interactive Exploration**  
+Add the whitepaper to **NotebookLM** to explore, summarize, and question concepts interactively.
+
+---
+
+## 💻 Hands-On Codelabs  
+
+### 🧠 **Codelab 1: Build Stateful Agents with Context Engineering**  
+- Implement agents that remember conversation history  
+- Manage contextual state dynamically within sessions  
+
+### 🧬 **Codelab 2: Add Memory to Your Agent**  
+- Integrate **short-term (session)** and **long-term (memory)** layers  
+- Explore techniques for memory retrieval, updates, and persistence  
+
+> ⚠️ **Reminder:**  
+> Check the **Troubleshooting Guide** before starting for help with common setup and runtime issues.
+
+---
+
+## 💡 What You’ll Learn  
+By completing Day 3, you’ll:  
+✅ Understand **Context Engineering** and how it powers stateful AI  
+✅ Learn to build **session-aware** and **memory-enabled** agents  
+✅ Explore practical memory management patterns for personalization  
+✅ Gain insight into optimizing context windows for efficient reasoning  
+
+---
+
+## 🏁 End of Day 3  
+You now know how to make your agents **context-aware and memory-driven**, enabling more natural, adaptive, and human-like behavior.  
+Next up — **Day 4: Tool Use, Multi-Agent Collaboration & Advanced Orchestration!** 🚀  
+
+---
+
+**📂 Repository Path:**  
+`/Day3_ContextEngineering_Memory`
+
+**Includes:**  
+- Whitepaper Notes  
+- Podcast Summary  
+- Codelabs (Sessions + Memory)  
+- Troubleshooting Guide  
+
+---
