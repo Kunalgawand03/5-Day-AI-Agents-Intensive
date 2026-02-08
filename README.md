@@ -4,7 +4,7 @@ A 5-day hands-on journey into building autonomous AI agents. Learn foundations, 
 # 🎒 Day 1 – Introduction to Agents  
 *Part of the **5-Day AI Agents Intensive** Program*
 
----
+-
 
 ## 🧠 Overview  
 Welcome to **Day 1**, where your journey into the world of **AI Agents** begins!  
